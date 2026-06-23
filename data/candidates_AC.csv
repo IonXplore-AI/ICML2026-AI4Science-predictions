@@ -1,5 +1,5 @@
-Formula,Space group,"$E_{\text{hull}}$, eV / atom","$E_{\text{reduction}}$, V \emph{vs.} Li/Li$^+$","$E_{\text{oxidation}}$, V \emph{vs.} Li/Li$^+$","$E_{\text{rxn}}$, eV / atom","$\sigma_{\text{Li}}^{\text{300 K}}$, mS / cm","$\sigma_{\text{Li}}^{\text{300 K}}$, mS / cm (standard error)",structure_cif
-Li$_{3}$SBr,$P2_1/c$,0.11,0.0,2.14,0.0,0.6206498892980786,0.11687686851131572,"data_image0
+generation_id,Formula,Space group,"$E_{\text{hull}}$, eV / atom","$E_{\text{reduction}}$, V \emph{vs.} Li/Li$^+$","$E_{\text{oxidation}}$, V \emph{vs.} Li/Li$^+$","$E_{\text{rxn}}$, eV / atom","$\sigma_{\text{Li}}^{\text{300 K}}$, mS / cm","$\sigma_{\text{Li}}^{\text{300 K}}$, mS / cm (standard error)",structure_cif
+wf_mace_mpa_am20_b3_3865,Li$_{3}$SBr,$P2_1/c$,0.11,0.0,2.14,0.0,0.6206498892980786,0.11687686851131572,"data_image0
 _chemical_formula_structural       Li12S4Br4
 _chemical_formula_sum              ""Li12 S4 Br4""
 _cell_length_a       7.1587403989298934
@@ -45,7 +45,7 @@ loop_
   Br  Br3       1.0  0.3670733208133036  0.6608562589280409  0.09304491769066445  1.0000
   Br  Br4       1.0  0.6329266791866968  0.1608562589280405  0.40695508230933547  1.0000
 "
-Li$_{2}$CaI$_{4}$,$Imma$,0.06,0.01,2.84,-0.0,0.21310427320912498,0.04524802939630998,"data_image0
+wf_mace_mpa_am20_b3_13910,Li$_{2}$CaI$_{4}$,$Imma$,0.06,0.01,2.84,-0.0,0.21310427320912498,0.04524802939630998,"data_image0
 _chemical_formula_structural       Li8Ca4I16
 _chemical_formula_sum              ""Li8 Ca4 I16""
 _cell_length_a       9.53393878135797
@@ -99,7 +99,7 @@ loop_
   I   I15       1.0  0.28161621858996505  0.7500000000000008  0.03421974376470826  1.0000
   I   I16       1.0  0.21838378141003487  0.7500000000000009  0.46578025623529123  1.0000
 "
-Li$_{4}$CaBr$_{6}$,$C2/m$,0.03,0.06,3.66,-0.01,0.1327737128889035,0.03374280397545788,"data_image0
+wf_mace_mpa_am20_b3_25563,Li$_{4}$CaBr$_{6}$,$C2/m$,0.03,0.06,3.66,-0.01,0.1327737128889035,0.03374280397545788,"data_image0
 _chemical_formula_structural       Li8Ca2Br12
 _chemical_formula_sum              ""Li8 Ca2 Br12""
 _cell_length_a       6.970573645924968
@@ -147,7 +147,7 @@ loop_
   Br  Br11      1.0  0.49653878261853124  0.0  0.24849393474790835  1.0000
   Br  Br12      1.0  0.003461217381470094  0.5000000000000001  0.7515060652520923  1.0000
 "
-LiCaI$_{3}$,$P\bar{1}$,0.02,0.01,2.84,-0.01,0.11426984021569984,0.022070680671477588,"data_image0
+wf_mace_mpa_am20_b3_21768,LiCaI$_{3}$,$P\bar{1}$,0.02,0.01,2.84,-0.01,0.11426984021569984,0.022070680671477588,"data_image0
 _chemical_formula_structural       Li2Ca2I6
 _chemical_formula_sum              ""Li2 Ca2 I6""
 _cell_length_a       11.613876464352483
@@ -183,7 +183,7 @@ loop_
   I   I5        1.0  0.17731497784625455  0.6892950484197315  0.5784498265059989  1.0000
   I   I6        1.0  0.8226850221537475  0.31070495158027  0.4215501734940031  1.0000
 "
-Li$_{4}$SCl$_{2}$,$P2_1/c$,0.06,0.0,2.14,0.0,0.10174863386719253,0.08253117324920564,"data_image0
+wf_mace_mpa_am20_b3_38735,Li$_{4}$SCl$_{2}$,$P2_1/c$,0.06,0.0,2.14,0.0,0.10174863386719253,0.08253117324920564,"data_image0
 _chemical_formula_structural       Li8S2Cl4
 _chemical_formula_sum              ""Li8 S2 Cl4""
 _cell_length_a       3.8374106561968166
@@ -223,7 +223,7 @@ loop_
   Cl  Cl3       1.0  0.06086119175088811  0.4985664527287491  0.8257039870382824  1.0000
   Cl  Cl4       1.0  0.9391388082491117  0.9985664527287486  0.6742960129617164  1.0000
 "
-LiCaI$_{3}$,$C2/c$,0.04,0.01,2.84,-0.01,0.04388774587330952,0.02479067382650163,"data_image0
+wf_mace_mpa_am20_b3_24896,LiCaI$_{3}$,$C2/c$,0.04,0.01,2.84,-0.01,0.04388774587330952,0.02479067382650163,"data_image0
 _chemical_formula_structural       Li8Ca8I24
 _chemical_formula_sum              ""Li8 Ca8 I24""
 _cell_length_a       7.746763545542246
@@ -289,7 +289,7 @@ loop_
   I   I23       1.0  0.8843491874341137  0.24984813577116055  0.8745844537738967  1.0000
   I   I24       1.0  0.3806950132406182  0.571146110629747  0.37109029374906594  1.0000
 "
-LiCaI$_{3}$,$C2/m$,0.03,0.01,2.84,-0.01,0.02930566867704636,0.014952628838148177,"data_image0
+wf_mace_mpa_am20_b3_29907,LiCaI$_{3}$,$C2/m$,0.03,0.01,2.84,-0.01,0.02930566867704636,0.014952628838148177,"data_image0
 _chemical_formula_structural       Li4Ca4I12
 _chemical_formula_sum              ""Li4 Ca4 I12""
 _cell_length_a       7.8334427077457
@@ -335,7 +335,7 @@ loop_
   I   I11       1.0  0.7444993284974735  0.6578569469985253  0.762701625941197  1.0000
   I   I12       1.0  0.23727326612769412  0.4999999999999999  0.7413756344370981  1.0000
 "
-LiCaI$_{3}$,$C2/c$,0.12,0.01,2.84,-0.01,0.017727795753450997,0.0031297164685551875,"data_image0
+wf_mace_mpa_am20_b3_21436,LiCaI$_{3}$,$C2/c$,0.12,0.01,2.84,-0.01,0.017727795753450997,0.0031297164685551875,"data_image0
 _chemical_formula_structural       Li4Ca4I12
 _chemical_formula_sum              ""Li4 Ca4 I12""
 _cell_length_a       10.747105260912553
